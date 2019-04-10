@@ -1,2 +1,3 @@
 # hello-world
-Just for create my first repository
+Just for create a repository
+Just for learn create a branch and edit branch
